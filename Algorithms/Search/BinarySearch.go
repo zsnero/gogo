@@ -46,5 +46,5 @@ func main() {
 	nanoseconds := delta.Nanoseconds() / int64(count)
 
 	fmt.Println(nanoseconds)
-	// about 88 nanoseconds
+
 }
